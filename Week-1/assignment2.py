@@ -6,7 +6,7 @@ f_name="Mboya "
 s_name="Emmanuel"
 Balance="50,006.45"
 deposit=30,000
-new_balance=Balance+deposit
+new_balance=int(Balance)+int(deposit)
 print("________________________________")
 print("           Co-op Bank           ")
 print("           We are you           ")
