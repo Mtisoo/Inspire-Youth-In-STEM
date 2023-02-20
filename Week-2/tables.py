@@ -4,7 +4,8 @@ from tabulate import tabulate
 mydata = [
     ["Nikhil","Dehli"],
     ["Ravi","Kanpur"],
-    ["Manish","Ahmedabad"],
+    ["Manish",
+    "Ahmedabad"],
     ["Prince", "Bangalore"]
 ]
 #create header

@@ -16,6 +16,6 @@ fav_colour="gray"
 if((fav_colour == "gray") | (age <= 20)):
     print("You won't receive a present")
 else:
-    print("Happyt birthday")
+    print("Happy birthday")
 
 
