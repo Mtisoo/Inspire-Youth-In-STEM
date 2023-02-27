@@ -5,3 +5,19 @@
 
 mucisians = []
 
+for x in range(5):
+    y = input("Enter a mucicians name : ")
+    mucisians.append(y)
+
+print(mucisians)
+celebrities = mucisians.copy()
+print(celebrities)
+celebrities.sort()
+print(celebrities)
+celebrities.pop()
+celebrities.pop()
+print(celebrities)
+print(len(celebrities))
+
+
+
